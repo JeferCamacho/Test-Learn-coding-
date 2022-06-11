@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.Rgb {
+  background-color: rgb(0, 255, 0);
+  /*Con los tres colores primarios se crea toda la gama de colores*/
+}
+
+.Rgba {
+  background-color: rgba(0, 0, 255, 0.5);
+  /*Tiene el mismo funcionamiento del Rgb y diferente es que agrega una opcion de opacidad al color*/
+}
+
+.Hsla {
+  background-color: hsla(360, 50%, 10%, 0.5);
+  /*La seleccion de colores va determinada a una gama de colores a un circulo de 360
+   y tiene una configuracion para el color es la saturation y el iluminacion el alpha es igual que al Rgba*/
+}
