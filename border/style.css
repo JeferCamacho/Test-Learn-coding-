@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.border-one {
+  border: 1px hsl(50, 40%, 30%) solid;
+}
+.border-two {
+  border: 1px hsl(10, 40%, 30%) dashed;
+}
+
+.border-three {
+  border: 1px hsl(110, 40%, 30%) dotted;
+}
+.border-for {
+  border: 1px hsl(167, 40%, 30%) double;
+}
+.border-five {
+  border: 1px hsl(300, 40%, 30%) inset;
+}
