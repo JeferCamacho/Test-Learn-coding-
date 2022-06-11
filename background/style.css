@@ -1,0 +1,26 @@
+body {
+  background-color: hsl(40, 50%, 10%);
+}
+
+.img-one {
+  background-image: url("https://i.ytimg.com/vi/PORNXyLBeB4/maxresdefault.jpg");
+  background-repeat: no-repeat; /*No duplica la imagen*/
+  background-size: 100px 100px; /*Tamaño de la imagen*/
+  background-position: bottom; /*Posicion en el contender */
+  background-attachment: scroll; /*Controla si la imagen se mueve o permanece fija cuando se halla un scroll*/
+  background-color: blue; /*Color del contendor*/
+  width: 255px; /* ancho tamaño del contenedor azul*/
+  height: 255px; /* largo tamaño del contenedor azul*/
+}
+
+.img-two {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcWWlZwGsvAA4lr2pIbJlAgRRTOS1GrlE7tUvNn0TW0DuIOyesM6tB07isHOaNlPyOrE&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  background-color: red;
+  background-position: bottom;
+  background-attachment: local;
+  width: 255px;
+  height: 255px;
+  background-position: center top;
+}
