@@ -13,7 +13,7 @@ body {
 }
 
 .Hsla {
-  background-color: hsla(360, 50%, 10%, 0.5);
+  background-color: hsla(41, 100%, 20%, 0.5);
   /*La seleccion de colores va determinada a una gama de colores a un circulo de 360
    y tiene una configuracion para el color es la saturation y el iluminacion el alpha es igual que al Rgba*/
 }
